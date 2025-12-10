@@ -129,6 +129,8 @@ platforms:
     name: "参考消息"
   - id: "sputniknewscn"
     name: "卫星通讯社"
+  - id: "tencent-hot"
+    name: "腾讯新闻 综合早报"
   - id: "zaobao"
     name: "联合早报"
   - id: "mktnews"
@@ -139,10 +141,6 @@ platforms:
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
     name: "华尔街见闻 最热"
-  - id: "wallstreetcn-quick"
-    name: "华尔街见闻 快讯"
-  - id: "wallstreetcn-news"
-    name: "华尔街见闻 最新"
   - id: "cls-hot"
     name: "财联社热门"
   - id: "gelonghui"
@@ -153,6 +151,8 @@ platforms:
     name: "金十数据"
   - id: "fastbull"
     name: "快讯通"
+  - id: "fastbull-news"
+    name: "法布财经 头条"
 
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
@@ -173,8 +173,6 @@ platforms:
     name: "IT之家"
   - id: "juejin"
     name: "掘金"
-  - id: "github"
-    name: "GitHub"
   - id: "hackernews"
     name: "Hacker News"
   - id: "solidot"
@@ -189,24 +187,3 @@ platforms:
     name: "少数派"
   - id: "producthunt"
     name: "ProductHunt"
-
-  # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
-
-   NewsNow的信息源在11月20日更新：
-
-    id: "tencent-hot"
-    name: "腾讯新闻 综合早报"
-    
-    id: "cls-telegraph"
-    name: "财联社 电报"
-    
-    id: "cls-depth"
-    name: "财联社 深度"
-    
-    id: "fastbull-express"
-    name: "法布财经 快讯"
-    
-    id: "fastbull-news"
-    name: "法布财经 头条"
